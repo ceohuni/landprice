@@ -2,9 +2,3 @@ streamlit
 pandas
 numpy
 geopandas
-ttk
-filedialog
-messagebox
-threading
-os
-# 필요한 라이브러리를 한 줄씩 적으세요
