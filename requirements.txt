@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 geopandas
-tkinter
 ttk
 filedialog
 messagebox
