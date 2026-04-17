@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 geopandas
-zipfile
 tkinter
 ttk
 filedialog
